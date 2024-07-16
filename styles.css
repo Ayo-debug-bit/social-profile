@@ -1,0 +1,131 @@
+.name{
+    color:hsl(0, 0%, 100%);
+    text-align: center;
+}
+@font-face {
+    font-family: inter;
+    src:url(\assets\fonts\inter-variableFont_slnt,wght.ttf);
+}
+.name{
+font-family:inter;
+}
+.location{
+    color:hsl(75, 94%, 57%);
+    text-align: center;
+}
+@font-face {
+    font-family: inter;
+    src:url(\assets\fonts\inter-variableFont_slnt,wght.ttf);
+}
+.location{
+font-family:inter;
+}
+.p1{
+    color:hsl(0, 0%, 100%);
+    text-align: center;
+}
+@font-face {
+    font-family: inter;
+    src:url(\assets\fonts\inter-variableFont_slnt,wght.ttf);
+}
+.p1{
+font-family:inter;
+}
+.one{
+    color:hsl(0, 0%, 100%);
+    background-color:hsl(0, 0%, 20%);
+    padding:8px;
+    border-radius:4px;
+    margin-top:10px;
+    text-align: center;
+}
+@font-face {
+    font-family: inter;
+    src:url(\assets\fonts\inter-variableFont_slnt,wght.ttf);
+}
+.one{
+font-family:inter;
+}
+.two{
+    color:hsl(0, 0%, 100%);
+    background-color:hsl(0, 0%, 20%);
+    border-radius:4px;
+    margin-top:8px;
+    padding:10px;
+    text-align: center;
+}
+@font-face {
+    font-family: inter;
+    src:url(\assets\fonts\inter-variableFont_slnt,wght.ttf);
+}
+.two{
+font-family:inter;
+}
+.three{
+    color:hsl(0, 0%, 100%);
+    background-color:hsl(0, 0%, 20%);
+    border-radius:4px;
+    margin-top:10px;
+    padding:8px;
+    text-align: center;
+}
+@font-face {
+    font-family: inter;
+    src:url(\assets\fonts\inter-variableFont_slnt,wght.ttf);
+}
+.three{
+font-family:inter;
+}
+.four{
+    color:hsl(0, 0%, 100%);
+    background-color:hsl(0, 0%, 20%);
+    border-radius:4px;
+    margin-top: 10px;
+    padding:8px;
+    text-align: center;
+}
+@font-face {
+    font-family: inter;
+    src:url(\assets\fonts\inter-variableFont_slnt,wght.ttf);
+}
+.four{
+font-family:inter;
+}
+.five{
+    color:hsl(0, 0%, 100%);
+    background-color:hsl(0, 0%, 20%);
+    border-radius:4px;
+    margin-top:10px;
+    padding:8px;
+    text-align: center;
+}
+@font-face {
+    font-family: inter;
+    src:url(\assets\fonts\inter-variableFont_slnt,wght.ttf);
+}
+.five{
+font-family:inter;
+}
+.wrapper{
+    background-color:hsl(0, 0%, 8%); 
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.page{
+    background-color:hsl(0, 0%, 12%) ;
+    width:300px;
+    height:500px;
+    padding:25px;
+    flex-direction: column;
+    border-radius: 8px;
+    padding-bottom: 60px;
+    margin-top: 90px;
+}
+img{
+    border-radius:50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width:50%;
+}
